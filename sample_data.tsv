@@ -1,0 +1,7 @@
+sentid	pairid	contextid	lemma	condition	comparison	sentence	ROI
+1	1	1	remain	MVRR	unexpected	The little girl fed the lamb remained relatively calm	6
+2	1	1	remain	MVRR	expected	The little girl who was fed the lamb remaind relatively calm	8
+3	2	2	remain	overt_object	unexpected	The little girl found the lamb remained relatively calm	6
+4	2	2	remain	overt_object	expected	The little girl found that the lamb remained relatively calm	7
+5	3	3	remain	verb_transitivity	unexpected	When the little girl attacked the lamb remained relatively calm	7
+6	3	3	remain	verb_transitivity	expected	When the little girl attacked the lamb remained relatively calm	7

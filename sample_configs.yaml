@@ -1,0 +1,54 @@
+# evaluate on unidirectional models * 25
+exp: MinimalPair
+
+mode: 
+    - evaluate
+
+models: 
+      hf_causal_model:
+          - distilgpt
+
+datafpath: final/data/final.tsv
+predfpath: final/predictions/unimodel_name.tsv
+
+
+# evaluate on bidirectional models * 25
+exp: MinimalPair
+
+mode: 
+    - evaluate
+
+models: 
+      hf_masked_model:
+          - distilbert
+
+datafpath: final/data/final.tsv
+predfpath: final/predictions/bimodel_name.tsv
+
+# analysis on unidirectional models * 25
+exp: MinimalPair
+
+mode: 
+    - evaluate
+
+models: 
+      hf_causal_model:
+          - distilgpt
+
+datafpath: final/data/final.tsv
+predfpath: final/predictions/unimodel_name.tsv
+resultsfpath: final/results/unimodel_name.tsv
+
+# analysis on bidirectional models *25
+exp: MinimalPair
+
+mode: 
+    - evaluate
+
+models: 
+      hf_causal_model:
+          - distilgpt
+
+datafpath: final/data/final.tsv
+predfpath: final/predictions/unimodel_name.tsv
+resultsfpath: final/results/unimodel_name.tsv
