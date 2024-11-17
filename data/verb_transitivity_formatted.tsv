@@ -1,0 +1,97 @@
+sentid	pairid	contextid	lemma	condition	comparison	sentence	ROI
+1	1	1	shot	verb_transitivity	unexpected	As the gangster shot the woman burst into hysterics	4
+2	1	1	shot	verb_transitivity	expected	As the gangster laughed the woman burst into hysterics	4
+3	2	1	shot	verb_transitivity	unexpected	As the gangster shot , the woman burst into hysterics	4
+4	2	1	shot	verb_transitivity	expected	As the gangster laughed , the woman burst into hysterics	4
+5	3	1	scratched	verb_transitivity	unexpected	When the dog scratched the vet took off the muzzle	4
+6	3	1	scratched	verb_transitivity	expected	When the dog struggled the vet took off the muzzle	4
+7	4	1	scratched	verb_transitivity	unexpected	When the dog scratched , the vet took off the muzzle	4
+8	4	1	scratched	verb_transitivity	expected	When the dog struggled , the vet took off the muzzle	4
+9	5	1	sailed	verb_transitivity	unexpected	As the ship sailed the waters remained blue and calm	4
+10	5	1	sailed	verb_transitivity	expected	As the ship drifted the waters remained blue and calm	4
+11	6	1	sailed	verb_transitivity	unexpected	As the ship sailed , the waters remained blue and calm	4
+12	6	1	sailed	verb_transitivity	expected	As the ship drifted , the waters remained blue and calm	4
+13	7	1	begged	verb_transitivity	unexpected	After the pilgrims begged the Indians lit a peace pipe	4
+14	7	1	begged	verb_transitivity	expected	After the pilgrims prayed the Indians lit a peace pipe	4
+15	8	1	begged	verb_transitivity	unexpected	After the pilgrims begged , the Indians lit a peace pipe	4
+16	8	1	begged	verb_transitivity	expected	After the pilgrims prayed , the Indians lit a peace pipe	4
+17	9	1	phoned	verb_transitivity	unexpected	Though the swimmer phoned the coach refused to congratulate him	4
+18	9	1	phoned	verb_transitivity	expected	Though the swimmer sulked the coach refused to congratulate him	4
+19	10	1	phoned	verb_transitivity	unexpected	Though the swimmer phoned , the coach refused to congratulate him	4
+20	10	1	phoned	verb_transitivity	expected	Though the swimmer sulked , the coach refused to congratulate him	4
+21	11	1	applauded	verb_transitivity	unexpected	While the crowd applauded the performer rested backstage	4
+22	11	1	applauded	verb_transitivity	expected	While the crowd screamed the performer rested backstage	4
+23	12	1	applauded	verb_transitivity	unexpected	While the crowd applauded , the performer rested backstage	4
+24	12	1	applauded	verb_transitivity	expected	While the crowd screamed , the performer rested backstage	4
+25	13	1	cheered	verb_transitivity	unexpected	While the audience cheered the magician waved his baton	4
+26	13	1	cheered	verb_transitivity	expected	While the audience roared the magician waved his baton	4
+27	14	1	cheered	verb_transitivity	unexpected	While the audience cheered , the magician waved his baton	4
+28	14	1	cheered	verb_transitivity	expected	While the audience roared , the magician waved his baton	4
+29	15	1	gobbled	verb_transitivity	unexpected	While the students gobbled the desserts were removed	4
+30	15	1	gobbled	verb_transitivity	expected	While the students gossiped the desserts were removed	4
+31	16	1	gobbled	verb_transitivity	unexpected	While the students gobbled , the desserts were removed	4
+32	16	1	gobbled	verb_transitivity	expected	While the students gossiped , the desserts were removed	4
+33	17	1	taught	verb_transitivity	unexpected	When the instructor taught the visitors lost interest	4
+34	17	1	taught	verb_transitivity	expected	When the instructor talked the visitors lost interest	4
+35	18	1	taught	verb_transitivity	unexpected	When the instructor taught , the visitors lost interest	4
+36	18	1	taught	verb_transitivity	expected	When the instructor talked , the visitors lost interest	4
+37	19	1	baby	verb_transitivity	unexpected	Because the crying baby clutched the woman stayed until the end	4
+38	19	1	baby	verb_transitivity	expected	Because the crying baby squirmed the woman stayed until the end	4
+39	20	1	baby	verb_transitivity	unexpected	Because the crying baby clutched , the woman stayed until the end	4
+40	20	1	baby	verb_transitivity	expected	Because the crying baby squirmed , the woman stayed until the end	4
+41	21	1	booed	verb_transitivity	unexpected	Although the manager booed the comedian began his act	4
+42	21	1	booed	verb_transitivity	expected	Although the manager yawned the comedian began his act	4
+43	22	1	booed	verb_transitivity	unexpected	Although the manager booed , the comedian began his act	4
+44	22	1	booed	verb_transitivity	expected	Although the manager yawned , the comedian began his act	4
+45	23	1	asked	verb_transitivity	unexpected	After the patient asked the nurse told her the news	4
+46	23	1	asked	verb_transitivity	expected	After the patient coughed the nurse told her the news	4
+47	24	1	asked	verb_transitivity	unexpected	After the patient asked , the nurse told her the news	4
+48	24	1	asked	verb_transitivity	expected	After the patient coughed , the nurse told her the news	4
+49	25	1	visited	verb_transitivity	unexpected	After the lifeguard visited the swimmers jumped into the pond	4
+50	25	1	visited	verb_transitivity	expected	After the lifeguard smiled the swimmers jumped into the pond	4
+51	26	1	visited	verb_transitivity	unexpected	After the lifeguard visited , the swimmers jumped into the pond	4
+52	26	1	visited	verb_transitivity	expected	After the lifeguard smiled , the swimmers jumped into the pond	4
+53	27	1	woke	verb_transitivity	unexpected	After the rooster woke the farmer went to the hen house	4
+54	27	1	woke	verb_transitivity	expected	After the rooster crowed the farmer went to the hen house	4
+55	28	1	woke	verb_transitivity	unexpected	After the rooster woke , the farmer went to the hen house	4
+56	28	1	woke	verb_transitivity	expected	After the rooster crowed , the farmer went to the hen house	4
+57	29	1	contemplated	verb_transitivity	unexpected	As the class contemplated the teacher asked a question	4
+58	29	1	contemplated	verb_transitivity	expected	As the class daydreamed the teacher asked a question	4
+59	30	1	contemplated	verb_transitivity	unexpected	As the class contemplated , the teacher asked a question	4
+60	30	1	contemplated	verb_transitivity	expected	As the class daydreamed , the teacher asked a question	4
+61	31	1	decorated	verb_transitivity	unexpected	While the woman decorated the pot boiled on the stove	4
+62	31	1	decorated	verb_transitivity	expected	While the woman gardened the pot boiled on the stove	4
+63	32	1	decorated	verb_transitivity	unexpected	While the woman decorated , the pot boiled on the stove	4
+64	32	1	decorated	verb_transitivity	expected	While the woman gardened , the pot boiled on the stove	4
+65	33	1	interrupted	verb_transitivity	unexpected	When the customer interrupted the manager changed the advertisement	4
+66	33	1	interrupted	verb_transitivity	expected	When the customer complained the manager changed the advertisement	4
+67	34	1	interrupted	verb_transitivity	unexpected	When the customer interrupted , the manager changed the advertisement	4
+68	34	1	interrupted	verb_transitivity	expected	When the customer complained , the manager changed the advertisement	4
+69	35	1	smoked	verb_transitivity	unexpected	As the bachelor smoked the pipe fell to the floor	4
+70	35	1	smoked	verb_transitivity	expected	As the bachelor moaned the pipe fell to the floor	4
+71	36	1	smoked	verb_transitivity	unexpected	As the bachelor smoked , the pipe fell to the floor	4
+72	36	1	smoked	verb_transitivity	expected	As the bachelor moaned , the pipe fell to the floor	4
+73	37	1	heckled	verb_transitivity	unexpected	While the prisoners heckled the guards refused to negotiate	4
+74	37	1	heckled	verb_transitivity	expected	While the prisoners fasted the guards refused to negotiate	4
+75	38	1	heckled	verb_transitivity	unexpected	While the prisoners heckled , the guards refused to negotiate	4
+76	38	1	heckled	verb_transitivity	expected	While the prisoners fasted , the guards refused to negotiate	4
+77	39	1	the	verb_transitivity	unexpected	As long as the king governed his subjects feared his wrath	4
+78	39	1	the	verb_transitivity	expected	As long as the king thundered his subjects feared his wrath	4
+79	40	1	the	verb_transitivity	unexpected	As long as the king governed , his subjects feared his wrath	4
+80	40	1	the	verb_transitivity	expected	As long as the king thundered , his subjects feared his wrath	4
+81	41	1	interrupted	verb_transitivity	unexpected	After the host interrupted the discussion became more interesting	4
+82	41	1	interrupted	verb_transitivity	expected	After the host shrieked the discussion became more interesting	4
+83	42	1	interrupted	verb_transitivity	unexpected	After the host interrupted , the discussion became more interesting	4
+84	42	1	interrupted	verb_transitivity	expected	After the host shrieked , the discussion became more interesting	4
+85	43	1	dressed	verb_transitivity	unexpected	After the woman dressed her children thought she looked lovely	4
+86	43	1	dressed	verb_transitivity	expected	After the woman bowed her children thought she looked lovely	4
+87	44	1	dressed	verb_transitivity	unexpected	After the woman dressed , her children thought she looked lovely	4
+88	44	1	dressed	verb_transitivity	expected	After the woman bowed , her children thought she looked lovely	4
+89	45	1	saluted	verb_transitivity	unexpected	After the soldier saluted the doctor ordered it to stop	4
+90	45	1	saluted	verb_transitivity	expected	After the soldier argued the doctor ordered it to stop	4
+91	46	1	saluted	verb_transitivity	unexpected	After the soldier saluted , the doctor ordered it to stop	4
+92	46	1	saluted	verb_transitivity	expected	After the soldier argued , the doctor ordered it to stop	4
+93	47	1	bluffed	verb_transitivity	unexpected	As the guard bluffed the thieves grabbed the money	4
+94	47	1	bluffed	verb_transitivity	expected	As the guard tiptoed the thieves grabbed the money	4
+95	48	1	bluffed	verb_transitivity	unexpected	As the guard bluffed , the thieves grabbed the money	4
+96	48	1	bluffed	verb_transitivity	expected	As the guard tiptoed , the thieves grabbed the money	4
