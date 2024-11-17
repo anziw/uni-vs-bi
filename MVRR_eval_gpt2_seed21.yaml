@@ -1,0 +1,14 @@
+# evaluate on unidirectional models * 25
+exp: MinimalPair
+
+mode: 
+    - evaluate
+
+models: 
+      hf_causal_model:
+          - stanford-crfm/alias-gpt2-small-x21
+
+datafpath: data/MVRR_formatted.tsv
+predfpath: evaluations/MVRR_eval_gpt2_seed21.tsv
+
+batchSize: 256
