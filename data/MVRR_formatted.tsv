@@ -1,109 +1,109 @@
 sentid	pairid	contextid	lemma	condition	comparison	sentence	ROI
-1	1	1	brought	MVRR	unexpected	The woman brought the sandwich from the kitchen fell in the dining room	3
-2	1	1	brought	MVRR	expected	The woman who was brought the sandwich from the kitchen fell in the dining room	5
-3	2	1	given	MVRR	unexpected	The woman given the sandwich from the kitchen fell in the dining room	3
-4	2	1	given	MVRR	expected	The woman who was given the sandwich from the kitchen fell in the dining room	5
-5	3	1	walked	MVRR	unexpected	The convict walked into the dark cell tried to escape but failed	3
-6	3	1	walked	MVRR	expected	The convict who was walked into the dark cell tried to escape but failed	5
-7	4	1	taken	MVRR	unexpected	The convict taken into the dark cell tried to escape but failed	3
-8	4	1	taken	MVRR	expected	The convict who was taken into the dark cell tried to escape but failed	5
-9	5	1	hit	MVRR	unexpected	The prisoners hit for hours and hours confessed to crimes they never committed	3
-10	5	1	hit	MVRR	expected	The prisoners who were hit for hours and hours confessed to crimes they never committed	5
-11	6	1	beaten	MVRR	unexpected	The prisoners beaten for hours and hours confessed to crimes they never committed	3
-12	6	1	beaten	MVRR	expected	The prisoners who were beaten for hours and hours confessed to crimes they never committed	5
-13	7	1	expanded	MVRR	unexpected	The business expanded into an empire was sold for billions of dollars	3
-14	7	1	expanded	MVRR	expected	The business that was expanded into an empire was sold for billions of dollars	5
-15	8	1	grown	MVRR	unexpected	The business grown into an empire was sold for billions of dollars	3
-16	8	1	grown	MVRR	expected	The business that was grown into an empire was sold for billions of dollars	5
-17	9	1	pledged	MVRR	unexpected	The lawyer pledged to keep silent was discovered to have broken his promise	3
-18	9	1	pledged	MVRR	expected	The lawyer that was pledged to keep silent was discovered to have broken his promise	5
-19	10	1	committed	MVRR	unexpected	The lawyer committed to keep silent was discovered to have broken his promise	3
-20	10	1	committed	MVRR	expected	The lawyer who was committed to keep silent was discovered to have broken his promise	5
-21	11	1	kicked	MVRR	unexpected	The child kicked in the chaos found her way back home	3
-22	11	1	kicked	MVRR	expected	The child who was kicked in the chaos found her way back home	5
-23	12	1	forgotten	MVRR	unexpected	The child forgotten in the chaos found her way back home	3
-24	12	1	forgotten	MVRR	expected	The child who was forgotten in the chaos found her way back home	5
-25	13	1	raced	MVRR	unexpected	The horses raced past the barn fell into a swamp	3
-26	13	1	raced	MVRR	expected	The horses that were raced past the barn fell into a swamp	5
-27	14	1	taken	MVRR	unexpected	The horses taken past the barn fell into a swamp	3
-28	14	1	taken	MVRR	expected	The horses that were taken past the barn fell into a swamp	5
-29	15	1	painted	MVRR	unexpected	The artist painted a impressionist portrait was impressed with the work	3
-30	15	1	painted	MVRR	expected	The artist who was painted a impressionist portrait was impressed with the work	5
-31	16	1	drawn	MVRR	unexpected	The artist drawn a impressionist portrait was impressed with the work	3
-32	16	1	drawn	MVRR	expected	The artist who was drawn a impressionist portrait was impressed with the work	5
-33	17	1	steered	MVRR	unexpected	The car steered into the parking lot crashed into a concrete wall	3
-34	17	1	steered	MVRR	expected	The car that was steered into the parking lot crashed into a concrete wall	5
-35	18	1	driven	MVRR	unexpected	The car driven into the parking lot crashed into a concrete wall	3
-36	18	1	driven	MVRR	expected	The car that was driven into the parking lot crashed into a concrete wall	5
-37	19	1	intended	MVRR	unexpected	The campaign intended to be very popular was still unsuccessful	3
-38	19	1	intended	MVRR	expected	The campaign that was intended to be very popular was still unsuccessful	5
-39	20	1	known	MVRR	unexpected	The campaign known to be very popular was still unsuccessful	3
-40	20	1	known	MVRR	expected	The campaign that was known to be very popular was still unsuccessful	5
-41	21	1	composed	MVRR	unexpected	The student composed a carefully worded excuse forgot to give it to the teacher	3
-42	21	1	composed	MVRR	expected	The student who was composed a carefully worded excuse forgot to give it to the teacher	5
-43	22	1	written	MVRR	unexpected	The student written a carefully worded excuse forgot to give it to the teacher	3
-44	22	1	written	MVRR	expected	The student who was written a carefully worded excuse forgot to give it to the teacher	5
-45	23	1	show	MVRR	unexpected	The television show started three weeks ago was canceled immediately	3
-46	23	1	was	MVRR	expected	The television show that was started three weeks ago was canceled immediately	5
-47	24	1	show	MVRR	unexpected	The television show begun three weeks ago was canceled immediately	3
-48	24	1	was	MVRR	expected	The television show that was begun three weeks ago was canceled immediately	5
-49	25	1	performed	MVRR	unexpected	The boys performed an unsolicited favor appreciated the person who helped them	3
-50	25	1	performed	MVRR	expected	The boys who were performed an unsolicited favor appreciated the person who helped them	5
-51	26	1	done	MVRR	unexpected	The boys done an unsolicited favor appreciated the person who helped them	3
-52	26	1	done	MVRR	expected	The boys who were done an unsolicited favor appreciated the person who helped them	5
-53	27	1	tossed	MVRR	unexpected	The player tossed the baseball dropped it on the ground	3
-54	27	1	tossed	MVRR	expected	The player who was tossed the baseball dropped it on the ground	5
-55	28	1	thrown	MVRR	unexpected	The player thrown the baseball dropped it on the ground	3
-56	28	1	thrown	MVRR	expected	The player who was thrown the baseball dropped it on the ground	5
-57	29	1	discussed	MVRR	unexpected	The men discussed in the neighborhood died from cancer	3
-58	29	1	discussed	MVRR	expected	The men who were discussed in the neighborhood died from cancer	5
-59	30	1	known	MVRR	unexpected	The man known in the neighborhood died from cancer	3
-60	30	1	known	MVRR	expected	The man who was known in the neighborhood died from cancer	5
-61	31	1	jumped	MVRR	unexpected	The child jumped past the swings was upset about it	3
-62	31	1	jumped	MVRR	expected	The child who was jumped past the swings was upset about it	5
-63	32	1	led	MVRR	unexpected	The child led past the swings was upset about it	3
-64	32	1	led	MVRR	expected	The child who was led past the swings was upset about it	5
-65	33	1	prepared	MVRR	unexpected	The students prepared a fancy dinner ate the meal quickly	3
-66	33	1	prepared	MVRR	expected	The students who were prepared a fancy dinner ate the meal quickly	5
-67	34	1	gotten	MVRR	unexpected	The students gotten a fancy dinner ate the meal quickly	3
-68	34	1	gotten	MVRR	expected	The students who were gotten a fancy dinner ate the meal quickly	5
-69	35	1	fed	MVRR	unexpected	The infant fed during the night yelled intensely	3
-70	35	1	fed	MVRR	expected	The infant that was fed during the night yelled intensely	5
-71	36	1	aroused	MVRR	unexpected	The infant aroused during the night yelled intensely	3
-72	36	1	aroused	MVRR	expected	The infant that was aroused during the night yelled intensely	5
-73	37	1	sheltered	MVRR	unexpected	The refugee sheltered in the basement departed during the night	3
-74	37	1	sheltered	MVRR	expected	The refugee who was sheltered in the basement departed during the night	5
-75	38	1	hidden	MVRR	unexpected	The refugee hidden in the basement departed during the night	3
-76	38	1	hidden	MVRR	expected	The refugee who was hidden in the basement departed during the night	5
-77	39	1	walked	MVRR	unexpected	The dog walked on the beach chased after a bird	3
-78	39	1	walked	MVRR	expected	The dog that was walked on the beach chased after a bird	5
-79	40	1	seen	MVRR	unexpected	The dog seen on the beach chased after a bird	3
-80	40	1	seen	MVRR	expected	The dog that was seen on the beach chased after a bird	5
-81	41	1	steered	MVRR	unexpected	The ship steered off course sank in the storm	3
-82	41	1	steered	MVRR	expected	The ship that was steered off course sank in the storm	5
-83	42	1	blown	MVRR	unexpected	The ship blown off course sank in the storm	3
-84	42	1	blown	MVRR	expected	The ship that was blown off course sank in the storm	5
-85	43	1	cheered	MVRR	unexpected	The fans cheered at the concert took photos with their phones	3
-86	43	1	cheered	MVRR	expected	The fans that were cheered at the concert took photos with their phones	5
-87	44	1	emboldened	MVRR	unexpected	The fans emboldened at the concert took photos with their phones	3
-88	44	1	emboldened	MVRR	expected	The fans that were emboldened at the concert took photos with their phones	5
-89	45	1	steered	MVRR	unexpected	The boat steered to the sea disappeared in the storm	3
-90	45	1	steered	MVRR	expected	The boat that was steered in the sea disappeared in the storm	5
-91	46	1	sunk	MVRR	unexpected	The boat sunk in the sea disappeared in the storm	3
-92	46	1	sunk	MVRR	expected	The boat that was sunk in the sea disappeared in the storm	5
-93	47	1	bought	MVRR	unexpected	The couple bought the apartment moved to a different city	3
-94	47	1	bought	MVRR	expected	The couple that was bought the apartment moved to a different city	5
-95	48	1	shown	MVRR	unexpected	The couple shown the apartment moved to a different city	3
-96	48	1	shown	MVRR	expected	The couple that was shown the apartment moved to a different city	5
-97	49	1	made	MVRR	unexpected	The girl made a new blanket lost it during the trip	3
-98	49	1	made	MVRR	expected	The girl who was made a new blanket lost it during the trip	5
-99	50	1	given	MVRR	unexpected	The girl given a new blanket lost it during the trip	3
-100	50	1	given	MVRR	expected	The girl who was given a new blanket lost it during the trip	5
-101	51	1	landed	MVRR	unexpected	The airplane landed in the mountains broke down during the ice storm	3
-102	51	1	landed	MVRR	expected	The airplane that was landed in the mountains broke down during the ice storm	5
-103	52	1	flown	MVRR	unexpected	The airplane flown in the mountains broke down during the ice storm	3
-104	52	1	flown	MVRR	expected	The airplane that was flown in the mountains broke down during the ice storm	5
-105	53	1	carried	MVRR	unexpected	The child carried down the hall yelled at the top of his lungs	3
-106	53	1	carried	MVRR	expected	The child that was carried down the hall yelled at the top of his lungs	5
-107	54	1	borne	MVRR	unexpected	The child borne down the hall yelled at the top of his lungs	3
-108	54	1	borne	MVRR	expected	The child that was borne down the hall yelled at the top of his lungs	5
+1	1	1	fell	MVRR	unexpected	The woman brought the sandwich from the kitchen fell in the dining room	8
+2	1	1	fell	MVRR	expected	The woman who was brought the sandwich from the kitchen fell in the dining room	10
+3	2	1	fell	MVRR	unexpected	The woman given the sandwich from the kitchen fell in the dining room	8
+4	2	1	fell	MVRR	expected	The woman who was given the sandwich from the kitchen fell in the dining room	10
+5	3	1	tried	MVRR	unexpected	The convict walked into the dark cell tried to escape but failed	7
+6	3	1	tried	MVRR	expected	The convict who was walked into the dark cell tried to escape but failed	9
+7	4	1	tried	MVRR	unexpected	The convict taken into the dark cell tried to escape but failed	7
+8	4	1	tried	MVRR	expected	The convict who was taken into the dark cell tried to escape but failed	9
+9	5	1	confessed	MVRR	unexpected	The prisoners hit for hours and hours confessed to crimes they never committed	7
+10	5	1	confessed	MVRR	expected	The prisoners who were hit for hours and hours confessed to crimes they never committed	9
+11	6	1	confessed	MVRR	unexpected	The prisoners beaten for hours and hours confessed to crimes they never committed	7
+12	6	1	confessed	MVRR	expected	The prisoners who were beaten for hours and hours confessed to crimes they never committed	9
+13	7	1	was	MVRR	unexpected	The business expanded into an empire was sold for billions of dollars	6
+14	7	1	was	MVRR	expected	The business that was expanded into an empire was sold for billions of dollars	8
+15	8	1	was	MVRR	unexpected	The business grown into an empire was sold for billions of dollars	6
+16	8	1	was	MVRR	expected	The business that was grown into an empire was sold for billions of dollars	8
+17	9	1	was	MVRR	unexpected	The lawyer pledged to keep silent was discovered to have broken his promise	6
+18	9	1	was	MVRR	expected	The lawyer that was pledged to keep silent was discovered to have broken his promise	8
+19	10	1	was	MVRR	unexpected	The lawyer committed to keep silent was discovered to have broken his promise	6
+20	10	1	was	MVRR	expected	The lawyer who was committed to keep silent was discovered to have broken his promise	8
+21	11	1	found	MVRR	unexpected	The child kicked in the chaos found her way back home	6
+22	11	1	found	MVRR	expected	The child who was kicked in the chaos found her way back home	8
+23	12	1	found	MVRR	unexpected	The child forgotten in the chaos found her way back home	6
+24	12	1	found	MVRR	expected	The child who was forgotten in the chaos found her way back home	8
+25	13	1	fell	MVRR	unexpected	The horses raced past the barn fell into a swamp	6
+26	13	1	fell	MVRR	expected	The horses that were raced past the barn fell into a swamp	8
+27	14	1	fell	MVRR	unexpected	The horses taken past the barn fell into a swamp	6
+28	14	1	fell	MVRR	expected	The horses that were taken past the barn fell into a swamp	8
+29	15	1	was	MVRR	unexpected	The artist painted a impressionist portrait was impressed with the work	6
+30	15	1	was	MVRR	expected	The artist who was painted a impressionist portrait was impressed with the work	8
+31	16	1	was	MVRR	unexpected	The artist drawn a impressionist portrait was impressed with the work	6
+32	16	1	was	MVRR	expected	The artist who was drawn a impressionist portrait was impressed with the work	8
+33	17	1	crashed	MVRR	unexpected	The car steered into the parking lot crashed into a concrete wall	7
+34	17	1	crashed	MVRR	expected	The car that was steered into the parking lot crashed into a concrete wall	9
+35	18	1	crashed	MVRR	unexpected	The car driven into the parking lot crashed into a concrete wall	7
+36	18	1	crashed	MVRR	expected	The car that was driven into the parking lot crashed into a concrete wall	9
+37	19	1	was	MVRR	unexpected	The campaign intended to be very popular was still unsuccessful	7
+38	19	1	was	MVRR	expected	The campaign that was intended to be very popular was still unsuccessful	9
+39	20	1	was	MVRR	unexpected	The campaign known to be very popular was still unsuccessful	7
+40	20	1	was	MVRR	expected	The campaign that was known to be very popular was still unsuccessful	9
+41	21	1	forgot	MVRR	unexpected	The student composed a carefully worded excuse forgot to give it to the teacher	7
+42	21	1	forgot	MVRR	expected	The student who was composed a carefully worded excuse forgot to give it to the teacher	9
+43	22	1	forgot	MVRR	unexpected	The student written a carefully worded excuse forgot to give it to the teacher	7
+44	22	1	forgot	MVRR	expected	The student who was written a carefully worded excuse forgot to give it to the teacher	9
+45	23	1	was	MVRR	unexpected	The television show started three weeks ago was canceled immediately	7
+46	23	1	was	MVRR	expected	The television show that was started three weeks ago was canceled immediately	9
+47	24	1	was	MVRR	unexpected	The television show begun three weeks ago was canceled immediately	7
+48	24	1	was	MVRR	expected	The television show that was begun three weeks ago was canceled immediately	9
+49	25	1	appreciated	MVRR	unexpected	The boys performed an unsolicited favor appreciated the person who helped them	6
+50	25	1	appreciated	MVRR	expected	The boys who were performed an unsolicited favor appreciated the person who helped them	8
+51	26	1	appreciated	MVRR	unexpected	The boys done an unsolicited favor appreciated the person who helped them	6
+52	26	1	appreciated	MVRR	expected	The boys who were done an unsolicited favor appreciated the person who helped them	8
+53	27	1	dropped	MVRR	unexpected	The player tossed the baseball dropped it on the ground	5
+54	27	1	dropped	MVRR	expected	The player who was tossed the baseball dropped it on the ground	7
+55	28	1	dropped	MVRR	unexpected	The player thrown the baseball dropped it on the ground	5
+56	28	1	dropped	MVRR	expected	The player who was thrown the baseball dropped it on the ground	7
+57	29	1	died	MVRR	unexpected	The men discussed in the neighborhood died from cancer	6
+58	29	1	died	MVRR	expected	The men who were discussed in the neighborhood died from cancer	8
+59	30	1	died	MVRR	unexpected	The man known in the neighborhood died from cancer	6
+60	30	1	died	MVRR	expected	The man who was known in the neighborhood died from cancer	8
+61	31	1	was	MVRR	unexpected	The child jumped past the swings was upset about it	6
+62	31	1	was	MVRR	expected	The child who was jumped past the swings was upset about it	8
+63	32	1	was	MVRR	unexpected	The child led past the swings was upset about it	6
+64	32	1	was	MVRR	expected	The child who was led past the swings was upset about it	8
+65	33	1	ate	MVRR	unexpected	The students prepared a fancy dinner ate the meal quickly	6
+66	33	1	ate	MVRR	expected	The students who were prepared a fancy dinner ate the meal quickly	8
+67	34	1	ate	MVRR	unexpected	The students gotten a fancy dinner ate the meal quickly	6
+68	34	1	ate	MVRR	expected	The students who were gotten a fancy dinner ate the meal quickly	8
+69	35	1	yelled	MVRR	unexpected	The infant fed during the night yelled intensely	6
+70	35	1	yelled	MVRR	expected	The infant that was fed during the night yelled intensely	8
+71	36	1	yelled	MVRR	unexpected	The infant aroused during the night yelled intensely	6
+72	36	1	yelled	MVRR	expected	The infant that was aroused during the night yelled intensely	8
+73	37	1	departed	MVRR	unexpected	The refugee sheltered in the basement departed during the night	6
+74	37	1	departed	MVRR	expected	The refugee who was sheltered in the basement departed during the night	8
+75	38	1	departed	MVRR	unexpected	The refugee hidden in the basement departed during the night	6
+76	38	1	departed	MVRR	expected	The refugee who was hidden in the basement departed during the night	8
+77	39	1	chased	MVRR	unexpected	The dog walked on the beach chased after a bird	6
+78	39	1	chased	MVRR	expected	The dog that was walked on the beach chased after a bird	8
+79	40	1	chased	MVRR	unexpected	The dog seen on the beach chased after a bird	6
+80	40	1	chased	MVRR	expected	The dog that was seen on the beach chased after a bird	8
+81	41	1	sank	MVRR	unexpected	The ship steered off course sank in the storm	5
+82	41	1	sank	MVRR	expected	The ship that was steered off course sank in the storm	7
+83	42	1	sank	MVRR	unexpected	The ship blown off course sank in the storm	5
+84	42	1	sank	MVRR	expected	The ship that was blown off course sank in the storm	7
+85	43	1	took	MVRR	unexpected	The fans cheered at the concert took photos with their phones	6
+86	43	1	took	MVRR	expected	The fans that were cheered at the concert took photos with their phones	8
+87	44	1	took	MVRR	unexpected	The fans emboldened at the concert took photos with their phones	6
+88	44	1	took	MVRR	expected	The fans that were emboldened at the concert took photos with their phones	8
+89	45	1	disappeared	MVRR	unexpected	The boat steered to the sea disappeared in the storm	6
+90	45	1	disappeared	MVRR	expected	The boat that was steered in the sea disappeared in the storm	8
+91	46	1	disappeared	MVRR	unexpected	The boat sunk in the sea disappeared in the storm	6
+92	46	1	disappeared	MVRR	expected	The boat that was sunk in the sea disappeared in the storm	8
+93	47	1	moved	MVRR	unexpected	The couple bought the apartment moved to a different city	5
+94	47	1	moved	MVRR	expected	The couple that was bought the apartment moved to a different city	7
+95	48	1	moved	MVRR	unexpected	The couple shown the apartment moved to a different city	5
+96	48	1	moved	MVRR	expected	The couple that was shown the apartment moved to a different city	7
+97	49	1	lost	MVRR	unexpected	The girl made a new blanket lost it during the trip	6
+98	49	1	lost	MVRR	expected	The girl who was made a new blanket lost it during the trip	8
+99	50	1	lost	MVRR	unexpected	The girl given a new blanket lost it during the trip	6
+100	50	1	lost	MVRR	expected	The girl who was given a new blanket lost it during the trip	8
+101	51	1	broke	MVRR	unexpected	The airplane landed in the mountains broke down during the ice storm	6
+102	51	1	broke	MVRR	expected	The airplane that was landed in the mountains broke down during the ice storm	8
+103	52	1	broke	MVRR	unexpected	The airplane flown in the mountains broke down during the ice storm	6
+104	52	1	broke	MVRR	expected	The airplane that was flown in the mountains broke down during the ice storm	8
+105	53	1	yelled	MVRR	unexpected	The child carried down the hall yelled at the top of his lungs	6
+106	53	1	yelled	MVRR	expected	The child that was carried down the hall yelled at the top of his lungs	8
+107	54	1	yelled	MVRR	unexpected	The child borne down the hall yelled at the top of his lungs	6
+108	54	1	yelled	MVRR	expected	The child that was borne down the hall yelled at the top of his lungs	8
