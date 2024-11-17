@@ -10,7 +10,7 @@ Are bidirectional LMs less surprised by garden path effects than unidirectional 
 ## Models
 For this model, we are running five models of GPT-2-Small (124M parameters) and five models of BERT-Base (110M parameters), all of which can be found on [Hugging Face](https://huggingface.co/models). 
 
-GPT-2 Small (originally from [Mistral](https://github.com/stanford-crfm/mistral?tab=readme-ov-file):
+GPT-2 Small (originally from [Mistral](https://github.com/stanford-crfm/mistral?tab=readme-ov-file)):
 1. [Seed 21](https://huggingface.co/stanford-crfm/alias-gpt2-small-x21)
 2. [Seed 49](https://huggingface.co/stanford-crfm/battlestar-gpt2-small-x49)
 3. [Seed 81](https://huggingface.co/stanford-crfm/caprica-gpt2-small-x81)
