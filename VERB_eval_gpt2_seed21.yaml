@@ -1,0 +1,13 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+
+models: 
+      hf_causal_model:
+          - stanford-crfm/expanse-gpt2-small-x777
+
+datafpath: data/verb_transitivity_formatted.tsv
+predfpath: evaluations_verb/verb_eval_gpt2_seed777.tsv
+
+batchSize: 256

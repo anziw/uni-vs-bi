@@ -1,0 +1,13 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+
+models: 
+      hf_masked_model:
+          - google/multiberts-seed_4
+
+datafpath: data/verb_transitivity_formatted.tsv
+predfpath: evaluations_verb/verb_eval_multiberts_seed4.tsv
+
+batchSize: 256

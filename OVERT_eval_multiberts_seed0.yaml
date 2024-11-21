@@ -1,0 +1,13 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+
+models: 
+      hf_masked_model:
+          - google/multiberts-seed_0
+
+datafpath: data/overt_object_formatted.tsv
+predfpath: evaluations_overt/overt_eval_multiberts_seed0.tsv
+
+batchSize: 256

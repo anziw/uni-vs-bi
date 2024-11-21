@@ -1,0 +1,13 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+
+models: 
+      hf_causal_model:
+          - stanford-crfm/darkmatter-gpt2-small-x343
+
+datafpath: data/overt_object_formatted.tsv
+predfpath: evaluations_overt/overt_eval_gpt2_seed343.tsv
+
+batchSize: 256
